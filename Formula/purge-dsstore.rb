@@ -2,6 +2,7 @@ class PurgeDsstore < Formula
   desc "Purge .DS_Store every 24h"
   homepage "https://github.com/aluxian/homebrew-utils"
   url "https://github.com/aluxian/homebrew-utils/archive/0.0.1.tar.gz"
+  sha256 "957245cdc0855257040c44840b060331c5db54ea3351805103f463e24a157f5e"
 
   plist_options :startup => true
 
